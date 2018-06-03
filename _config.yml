@@ -8,7 +8,7 @@ subtitle: 扬帆 起航 我是船长
 description: My world
 keywords: haliluya
 author: Sampan Lee
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: huno
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
